@@ -1,7 +1,7 @@
 {
     "name":"janborg/symfony-tabula",
     "description":"",
-    "keywords":["tabula, Json, pdf, tables"],
+    "keywords":["tabula", "Json", "pdf", "tables"],
     "type":"lib",
     "license":"MIT",
     "authors":[
