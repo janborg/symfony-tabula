@@ -57,5 +57,5 @@ $tabula->setPdf($file)
 
 ## License
 
-laravel-tabula is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+symfony-tabula is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
